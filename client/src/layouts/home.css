@@ -1,0 +1,22 @@
+*{
+    
+}
+
+
+.todo-table{
+    display: flex;
+    /* margin-top:35px; */
+    margin: 20px 100px;
+    width: calc(100% - 200px);   
+}
+
+.add-bt{
+    margin:50px;
+}
+
+
+td,th{
+    
+    font-size: large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
